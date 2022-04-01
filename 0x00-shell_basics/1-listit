@@ -1,7 +1,2 @@
 #!/bin/bash
-   ls
-<<<<<<< HEAD:0x00-shell_basics/1-listit
-
-=======
-newline
->>>>>>> 0bdf34f5a94d814afdb2b6cc28575d792e312481:0x00-shell_basics/1-listit.sh
+  ls
